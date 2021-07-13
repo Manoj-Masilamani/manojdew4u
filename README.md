@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @manojdew4u
+- 👋 Hi, I’m @Manoj_Masilamani
 - 👀 I’m interested in data analytics and data science
 - 🌱 I’m currently learning data analytics and data science
 - 💞️ I’m looking to collaborate on SQL,Pyhton
